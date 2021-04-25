@@ -14,5 +14,4 @@
 
 <!-- exfat support -->
 <remote name="relan" fetch="https://github.com/relan/" />
-<project path="external/exfat" name="exfat" remote="relan" revision="master" />
 </manifest>
